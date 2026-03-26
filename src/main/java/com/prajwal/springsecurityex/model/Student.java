@@ -1,4 +1,4 @@
-package com.prajwal.springsecurityex;
+package com.prajwal.springsecurityex.model;
 
 public class Student {
     private int id;
